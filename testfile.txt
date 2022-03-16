@@ -1,0 +1,4 @@
+Hello this is a text file
+this is the second line
+here are some more words for this text file
+This should help to understand fileio funcitonality
